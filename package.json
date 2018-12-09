@@ -1,0 +1,16 @@
+{
+  "name": "lk-number-conversion",
+  "version": "1.0.5",
+  "description": "数字转千分符、百分比等、十万进制",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "likai",
+  "license": "ISC",
+  "keywords": [
+    "千分符",
+    "百分比",
+    "十万进制"
+  ]
+}
